@@ -1,0 +1,15 @@
+.container{
+ border: 2px solid black;
+ display: flex;
+ min-height: 100vh;
+ justify-content: space-between;
+ align-items:  center;
+ flex-direction: row-reverse;
+}
+.box {
+
+    border: 1px solid black;
+   }
+.container div{
+    
+}
